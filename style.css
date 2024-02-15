@@ -61,8 +61,7 @@ body{
     font-weight: bold;
     margin-top: 20px;
 }
-.frames{
-    width: 400px;
+.frames{file:///C:/Users/User/Downloads/140167635_441441120388436_8309501435319573258_n.jpg
     height: 150px;
     box-shadow: 0 5px 10px rgba(255, 255, 255, 0.5);
     display: flex;
@@ -73,7 +72,7 @@ body{
     transform: rotateY(-230deg) rotateX(20deg);
     position: absolute;
 }
-.frames img{
+.frames img{file:///C:/Users/User/Desktop/rany/SSR%20(1%20of%201).jpg
     width: 125px;
     height: 125px;
     border-radius: 50%;
